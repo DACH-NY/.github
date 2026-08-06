@@ -1,6 +1,6 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/digital-asset/.github/raw/main/images/DA-Logo-Black-Blue.png">
- <img alt="Digital Asset" src="https://github.com/digital-asset/.github/raw/main/images/DA-Logo-Black-Blue.png" width="50%">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/digital-asset/.github/raw/main/DA-Logo-Black-Blue.png">
+ <img alt="Digital Asset" src="https://github.com/digital-asset/.github/raw/main/DA-Logo-Black-Blue.png" width="50%">
 </picture>
 
 [Realize the full economic value of a more interconnected world](https://digitalasset.com)
