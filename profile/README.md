@@ -1,5 +1,5 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/digital-asset/.github/raw/main/images/digital-asset-logo-dark.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/digital-asset/.github/raw/main/images/DA-Logo-Black-Blue.png">
  <img alt="Digital Asset" src="https://github.com/digital-asset/.github/raw/main/images/digital-asset-logo-light.png" width="50%">
 </picture>
 
